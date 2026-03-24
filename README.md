@@ -138,4 +138,4 @@ The model predicts one hour ahead using the previous 168 hours of demand and wea
 
 ```bash
 pip install -r requirements.txt
-python energy_forecast.py
+python LSTM_model.py
